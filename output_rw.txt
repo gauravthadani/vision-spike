@@ -1,0 +1,84 @@
+Batch results
+
+
+ data/REAImages_RW/rw_bathroom_1.jpg
+ mid:"/m/07s6nbt" description:"text" score:0.86981416 topicality:0.86981416  
+ mid:"/m/03nfmq" description:"architecture" score:0.81626844 topicality:0.81626844  
+ mid:"/m/01jwgf" description:"product" score:0.73355174 topicality:0.73355174  
+ mid:"/m/03y18t" description:"product design" score:0.6954035 topicality:0.6954035  
+ mid:"/m/02cwm" description:"design" score:0.6493096 topicality:0.6493096  
+ mid:"/m/0mwc" description:"angle" score:0.5971535 topicality:0.5971535  
+ mid:"/m/01cd9" description:"brand" score:0.5693579 topicality:0.5693579  
+ mid:"/m/06wqb" description:"space" score:0.5039792 topicality:0.5039792  
+
+ data/REAImages_RW/rw_bedroom_1.jpg
+ mid:"/m/03nfmq" description:"architecture" score:0.8488259 topicality:0.8488259  
+ mid:"/m/0k2n5" description:"daylighting" score:0.66344976 topicality:0.66344976  
+ mid:"/m/03y18t" description:"product design" score:0.6349509 topicality:0.6349509  
+ mid:"/m/01jwgf" description:"product" score:0.6308482 topicality:0.6308482  
+ mid:"/m/02rfdq" description:"interior design" score:0.5973674 topicality:0.5973674  
+ mid:"/m/023907r" description:"real estate" score:0.5902718 topicality:0.5902718  
+ mid:"/m/0mwc" description:"angle" score:0.5732765 topicality:0.5732765  
+ mid:"/m/03jm5" description:"house" score:0.5690341 topicality:0.5690341  
+ mid:"/m/06wqb" description:"space" score:0.5029759 topicality:0.5029759  
+ mid:"/m/01cd9" description:"brand" score:0.5015066 topicality:0.5015066  
+
+ data/REAImages_RW/rw_building_1.jpg
+ mid:"/m/0j_s4" description:"metropolitan area" score:0.9507578 topicality:0.9507578  
+ mid:"/m/05_5t0l" description:"landmark" score:0.9203395 topicality:0.9203395  
+ mid:"/m/056mk" description:"metropolis" score:0.8816916 topicality:0.8816916  
+ mid:"/m/020ys5" description:"condominium" score:0.8664316 topicality:0.8664316  
+ mid:"/m/01bqvp" description:"sky" score:0.863161 topicality:0.863161  
+ mid:"/m/0c1vxg" description:"mixed use" score:0.862713 topicality:0.862713  
+ mid:"/m/0cgh4" description:"building" score:0.8209153 topicality:0.8209153  
+ mid:"/m/03nfmq" description:"architecture" score:0.81155074 topicality:0.81155074  
+ mid:"/m/01n32" description:"city" score:0.77269477 topicality:0.77269477  
+ mid:"/m/023907r" description:"real estate" score:0.71484387 topicality:0.71484387  
+
+ data/REAImages_RW/rw_floorplan_1.jpg
+ mid:"/m/07s6nbt" description:"text" score:0.93999696 topicality:0.93999696  
+ mid:"/m/02sp3v" description:"floor plan" score:0.8482482 topicality:0.8482482  
+ mid:"/m/03gq5hm" description:"font" score:0.8141775 topicality:0.8141775  
+ mid:"/m/02cwm" description:"design" score:0.7559808 topicality:0.7559808  
+ mid:"/m/02v0m2" description:"diagram" score:0.7463517 topicality:0.7463517  
+ mid:"/m/01jwgf" description:"product" score:0.7317922 topicality:0.7317922  
+ mid:"/m/03y18t" description:"product design" score:0.68340945 topicality:0.68340945  
+ mid:"/m/03scnj" description:"line" score:0.6562849 topicality:0.6562849  
+ mid:"/m/01cd9" description:"brand" score:0.6339098 topicality:0.6339098  
+ mid:"/m/0mwc" description:"angle" score:0.59330493 topicality:0.59330493  
+
+ data/REAImages_RW/rw_hall_1.jpg
+ mid:"/m/05wrt" description:"property" score:0.8927591 topicality:0.8927591  
+ mid:"/m/03nfmq" description:"architecture" score:0.83829606 topicality:0.83829606  
+ mid:"/m/02cwm" description:"design" score:0.6597861 topicality:0.6597861  
+ mid:"/m/01l0mw" description:"home" score:0.6597709 topicality:0.6597709  
+ mid:"/m/0k2n5" description:"daylighting" score:0.6533241 topicality:0.6533241  
+ mid:"/m/03jm5" description:"house" score:0.650078 topicality:0.650078  
+ mid:"/m/03y18t" description:"product design" score:0.6175383 topicality:0.6175383  
+ mid:"/m/0mwc" description:"angle" score:0.57518697 topicality:0.57518697  
+ mid:"/m/0d4v4" description:"window" score:0.5235515 topicality:0.5235515  
+ mid:"/m/06wqb" description:"space" score:0.50953144 topicality:0.50953144  
+
+ data/REAImages_RW/rw_kitchen_1.jpg
+ mid:"/m/05wrt" description:"property" score:0.8980628 topicality:0.8980628  
+ mid:"/m/03nfmq" description:"architecture" score:0.81605005 topicality:0.81605005  
+ mid:"/m/023907r" description:"real estate" score:0.65599424 topicality:0.65599424  
+ mid:"/m/03y18t" description:"product design" score:0.61596525 topicality:0.61596525  
+ mid:"/m/0k2n5" description:"daylighting" score:0.5972328 topicality:0.5972328  
+ mid:"/m/0mwc" description:"angle" score:0.59392804 topicality:0.59392804  
+ mid:"/m/0l7_8" description:"floor" score:0.5921814 topicality:0.5921814  
+ mid:"/m/01jwgf" description:"product" score:0.57532686 topicality:0.57532686  
+ mid:"/m/03jm5" description:"house" score:0.5585351 topicality:0.5585351  
+ mid:"/m/0d4v4" description:"window" score:0.5537986 topicality:0.5537986  
+
+ data/REAImages_RW/rw_view_1.jpg
+ mid:"/m/05wrt" description:"property" score:0.9036662 topicality:0.9036662  
+ mid:"/m/01bqvp" description:"sky" score:0.8784842 topicality:0.8784842  
+ mid:"/m/03nfmq" description:"architecture" score:0.8344771 topicality:0.8344771  
+ mid:"/m/023907r" description:"real estate" score:0.76170844 topicality:0.76170844  
+ mid:"/m/0c1vxg" description:"mixed use" score:0.74534 topicality:0.74534  
+ mid:"/m/0d9wj" description:"urban design" score:0.7399228 topicality:0.7399228  
+ mid:"/m/02nfxt" description:"residential area" score:0.68501705 topicality:0.68501705  
+ mid:"/m/01x314" description:"facade" score:0.61045253 topicality:0.61045253  
+ mid:"/m/020ys5" description:"condominium" score:0.58025336 topicality:0.58025336  
+ mid:"/m/0d4v4" description:"window" score:0.5801221 topicality:0.5801221  

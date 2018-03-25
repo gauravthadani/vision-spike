@@ -1,0 +1,188 @@
+Batch results
+
+
+ data/REAImages/balcony_1.jpg
+ mid:"/m/01bqvp" description:"sky" score:0.8986241 topicality:0.8986241  
+ mid:"/m/03nfmq" description:"architecture" score:0.8616133 topicality:0.8616133  
+ mid:"/m/0cgh4" description:"building" score:0.8341474 topicality:0.8341474  
+ mid:"/m/020ys5" description:"condominium" score:0.8175645 topicality:0.8175645  
+ mid:"/m/01nblt" description:"apartment" score:0.7819277 topicality:0.7819277  
+ mid:"/m/02nfxt" description:"residential area" score:0.75790644 topicality:0.75790644  
+ mid:"/m/02q7ylj" description:"daytime" score:0.7278985 topicality:0.7278985  
+ mid:"/m/023907r" description:"real estate" score:0.7173426 topicality:0.7173426  
+ mid:"/m/03jm5" description:"house" score:0.7067068 topicality:0.7067068  
+ mid:"/m/0d4v4" description:"window" score:0.6642753 topicality:0.6642753  
+
+ data/REAImages/balcony_2.jpg
+ mid:"/m/0j_s4" description:"metropolitan area" score:0.92114514 topicality:0.92114514  
+ mid:"/m/05wrt" description:"property" score:0.89456344 topicality:0.89456344  
+ mid:"/m/039jbq" description:"urban area" score:0.8694595 topicality:0.8694595  
+ mid:"/m/02nfxt" description:"residential area" score:0.8617856 topicality:0.8617856  
+ mid:"/m/03nfmq" description:"architecture" score:0.84904003 topicality:0.84904003  
+ mid:"/m/01bqvp" description:"sky" score:0.8399169 topicality:0.8399169  
+ mid:"/m/020ys5" description:"condominium" score:0.8166152 topicality:0.8166152  
+ mid:"/m/01nblt" description:"apartment" score:0.8081259 topicality:0.8081259  
+ mid:"/m/06hyd" description:"roof" score:0.7984528 topicality:0.7984528  
+ mid:"/m/023907r" description:"real estate" score:0.7960642 topicality:0.7960642  
+
+ data/REAImages/balcony_3.jpg
+ mid:"/m/05wrt" description:"property" score:0.9221282 topicality:0.9221282  
+ mid:"/m/03nfmq" description:"architecture" score:0.8443965 topicality:0.8443965  
+ mid:"/m/023907r" description:"real estate" score:0.81388986 topicality:0.81388986  
+ mid:"/m/01bqvp" description:"sky" score:0.80967385 topicality:0.80967385  
+ mid:"/m/09qqq" description:"wall" score:0.7744984 topicality:0.7744984  
+ mid:"/m/0d4v4" description:"window" score:0.70406 topicality:0.70406  
+ mid:"/m/03jm5" description:"house" score:0.69767046 topicality:0.69767046  
+ mid:"/m/01l0mw" description:"home" score:0.69431084 topicality:0.69431084  
+ mid:"/m/01nblt" description:"apartment" score:0.68124044 topicality:0.68124044  
+ mid:"/m/01748f" description:"balcony" score:0.67973524 topicality:0.67973524  
+
+ data/REAImages/bathroom_1.jpg
+ mid:"/m/01j2bj" description:"bathroom" score:0.95142627 topicality:0.95142627  
+ mid:"/m/06ht1" description:"room" score:0.8869177 topicality:0.8869177  
+ mid:"/m/0h8nr_l" description:"bathroom accessory" score:0.8816404 topicality:0.8816404  
+ mid:"/m/02jz0l" description:"tap" score:0.86726975 topicality:0.86726975  
+ mid:"/m/01vbnl" description:"bidet" score:0.81274986 topicality:0.81274986  
+ mid:"/m/09qqq" description:"wall" score:0.7890265 topicality:0.7890265  
+ mid:"/m/02pkr5" description:"plumbing fixture" score:0.7743618 topicality:0.7743618  
+ mid:"/m/02rfdq" description:"interior design" score:0.75395924 topicality:0.75395924  
+ mid:"/m/04y4h8h" description:"bathroom cabinet" score:0.7474233 topicality:0.7474233  
+ mid:"/m/02553v" description:"toilet seat" score:0.7414801 topicality:0.7414801  
+
+ data/REAImages/bathroom_2.jpg
+ mid:"/m/01j2bj" description:"bathroom" score:0.94764644 topicality:0.94764644  
+ mid:"/m/0h8nr_l" description:"bathroom accessory" score:0.9134132 topicality:0.9134132  
+ mid:"/m/06ht1" description:"room" score:0.8962809 topicality:0.8962809  
+ mid:"/m/05wrt" description:"property" score:0.890917 topicality:0.890917  
+ mid:"/m/04y4h8h" description:"bathroom cabinet" score:0.79230607 topicality:0.79230607  
+ mid:"/m/02553v" description:"toilet seat" score:0.69959676 topicality:0.69959676  
+ mid:"/m/02jz0l" description:"tap" score:0.68972534 topicality:0.68972534  
+ mid:"/m/02rfdq" description:"interior design" score:0.68869025 topicality:0.68869025  
+ mid:"/m/02pkr5" description:"plumbing fixture" score:0.67758274 topicality:0.67758274  
+ mid:"/m/03y18t" description:"product design" score:0.6583958 topicality:0.6583958  
+
+ data/REAImages/bathroom_3.jpg
+ mid:"/m/01j2bj" description:"bathroom" score:0.9493037 topicality:0.9493037  
+ mid:"/m/0h8nr_l" description:"bathroom accessory" score:0.891202 topicality:0.891202  
+ mid:"/m/06ht1" description:"room" score:0.8908803 topicality:0.8908803  
+ mid:"/m/05wrt" description:"property" score:0.8857173 topicality:0.8857173  
+ mid:"/m/03nfmq" description:"architecture" score:0.7983214 topicality:0.7983214  
+ mid:"/m/02rfdq" description:"interior design" score:0.7613245 topicality:0.7613245  
+ mid:"/m/04y4h8h" description:"bathroom cabinet" score:0.7214974 topicality:0.7214974  
+ mid:"/m/03y18t" description:"product design" score:0.65136814 topicality:0.65136814  
+ mid:"/m/02pkr5" description:"plumbing fixture" score:0.57995605 topicality:0.57995605  
+ mid:"/m/02553v" description:"toilet seat" score:0.57846534 topicality:0.57846534  
+
+ data/REAImages/bathroom_4.jpg
+ mid:"/m/01j2bj" description:"bathroom" score:0.9255743 topicality:0.9255743  
+ mid:"/m/09qqq" description:"wall" score:0.85431117 topicality:0.85431117  
+ mid:"/m/06ht1" description:"room" score:0.8519832 topicality:0.8519832  
+ mid:"/m/0h8nr_l" description:"bathroom accessory" score:0.85043 topicality:0.85043  
+ mid:"/m/021w6f" description:"tile" score:0.8082787 topicality:0.8082787  
+ mid:"/m/02jz0l" description:"tap" score:0.8081405 topicality:0.8081405  
+ mid:"/m/02rfdq" description:"interior design" score:0.7783 topicality:0.7783  
+ mid:"/m/0l7_8" description:"floor" score:0.75235987 topicality:0.75235987  
+ mid:"/m/01x5q" description:"ceramic" score:0.7312112 topicality:0.7312112  
+ mid:"/m/0130jx" description:"sink" score:0.7211708 topicality:0.7211708  
+
+ data/REAImages/bedroom_1.jpg
+ mid:"/m/05wrt" description:"property" score:0.94376534 topicality:0.94376534  
+ mid:"/m/06ht1" description:"room" score:0.8957995 topicality:0.8957995  
+ mid:"/m/023907r" description:"real estate" score:0.82286155 topicality:0.82286155  
+ mid:"/m/01l0mw" description:"home" score:0.7072095 topicality:0.7072095  
+ mid:"/m/03jm5" description:"house" score:0.6714455 topicality:0.6714455  
+ mid:"/m/0l7_8" description:"floor" score:0.6294188 topicality:0.6294188  
+ mid:"/m/01nblt" description:"apartment" score:0.620776 topicality:0.620776  
+ mid:"/m/0d4v4" description:"window" score:0.5735862 topicality:0.5735862  
+ mid:"/m/0k2n5" description:"daylighting" score:0.5670586 topicality:0.5670586  
+ mid:"/m/02rfdq" description:"interior design" score:0.5533776 topicality:0.5533776  
+
+ data/REAImages/bedroom_2.jpg
+ mid:"/m/05wrt" description:"property" score:0.9326346 topicality:0.9326346  
+ mid:"/m/06ht1" description:"room" score:0.858372 topicality:0.858372  
+ mid:"/m/023907r" description:"real estate" score:0.79237974 topicality:0.79237974  
+ mid:"/m/0d4v4" description:"window" score:0.7591062 topicality:0.7591062  
+ mid:"/m/03jm5" description:"house" score:0.713333 topicality:0.713333  
+ mid:"/m/01l0mw" description:"home" score:0.7047315 topicality:0.7047315  
+ mid:"/m/01nblt" description:"apartment" score:0.6705278 topicality:0.6705278  
+ mid:"/m/0k2n5" description:"daylighting" score:0.6065953 topicality:0.6065953  
+ mid:"/m/0l7_8" description:"floor" score:0.5566897 topicality:0.5566897  
+ mid:"/m/02dgv" description:"door" score:0.54479426 topicality:0.54479426  
+
+ data/REAImages/concierge_1.jpg
+ mid:"/m/03gfsp" description:"ceiling" score:0.93879265 topicality:0.93879265  
+ mid:"/m/027dwg0" description:"lobby" score:0.9322908 topicality:0.9322908  
+ mid:"/m/05wrt" description:"property" score:0.89892244 topicality:0.89892244  
+ mid:"/m/0l7_8" description:"floor" score:0.8432662 topicality:0.8432662  
+ mid:"/m/02rfdq" description:"interior design" score:0.8135002 topicality:0.8135002  
+ mid:"/m/01c34b" description:"flooring" score:0.80435383 topicality:0.80435383  
+ mid:"/m/023907r" description:"real estate" score:0.6990201 topicality:0.6990201  
+ mid:"/m/038t8_" description:"estate" score:0.6085179 topicality:0.6085179  
+ mid:"/m/027xhm0" description:"wood flooring" score:0.5912423 topicality:0.5912423  
+ mid:"/m/021w6f" description:"tile" score:0.58050627 topicality:0.58050627  
+
+ data/REAImages/gym_1.jpg
+ mid:"/m/0n68_" description:"structure" score:0.91805017 topicality:0.91805017  
+ mid:"/m/016yx7" description:"gym" score:0.91481924 topicality:0.91481924  
+ mid:"/m/06ht1" description:"room" score:0.88952327 topicality:0.88952327  
+ mid:"/m/023907r" description:"real estate" score:0.6937386 topicality:0.6937386  
+ mid:"/m/02rfdq" description:"interior design" score:0.5833138 topicality:0.5833138  
+ mid:"/m/0bmgjqz" description:"sport venue" score:0.5310369 topicality:0.5310369  
+ mid:"/m/0l7_8" description:"floor" score:0.52482754 topicality:0.52482754  
+ mid:"/m/03jm5" description:"house" score:0.5188242 topicality:0.5188242  
+ mid:"/m/01c34b" description:"flooring" score:0.50101507 topicality:0.50101507  
+
+ data/REAImages/hall_1.jpg
+ mid:"/m/05wrt" description:"property" score:0.93538904 topicality:0.93538904  
+ mid:"/m/023907r" description:"real estate" score:0.84419405 topicality:0.84419405  
+ mid:"/m/0l7_8" description:"floor" score:0.7953344 topicality:0.7953344  
+ mid:"/m/027xhm0" description:"wood flooring" score:0.7345164 topicality:0.7345164  
+ mid:"/m/01nblt" description:"apartment" score:0.70280325 topicality:0.70280325  
+ mid:"/m/03jm5" description:"house" score:0.6896712 topicality:0.6896712  
+ mid:"/m/01l0mw" description:"home" score:0.6844851 topicality:0.6844851  
+ mid:"/m/02rfdq" description:"interior design" score:0.65981513 topicality:0.65981513  
+ mid:"/m/04xvs0" description:"laminate flooring" score:0.65300065 topicality:0.65300065  
+ mid:"/m/01c34b" description:"flooring" score:0.6456988 topicality:0.6456988  
+
+ data/REAImages/kitchen_1.jpg
+ mid:"/m/05wrt" description:"property" score:0.91461575 topicality:0.91461575  
+ mid:"/m/01s105" description:"cabinetry" score:0.90236 topicality:0.90236  
+ mid:"/m/0d4wf" description:"kitchen" score:0.8839367 topicality:0.8839367  
+ mid:"/m/0b3fp9" description:"countertop" score:0.88141114 topicality:0.88141114  
+ mid:"/m/06ht1" description:"room" score:0.8637151 topicality:0.8637151  
+ mid:"/m/09qqq" description:"wall" score:0.8214468 topicality:0.8214468  
+ mid:"/m/0l7_8" description:"floor" score:0.79100686 topicality:0.79100686  
+ mid:"/m/02rfdq" description:"interior design" score:0.7806466 topicality:0.7806466  
+ mid:"/m/027xhm0" description:"wood flooring" score:0.7275601 topicality:0.7275601  
+ mid:"/m/023907r" description:"real estate" score:0.69916964 topicality:0.69916964  
+
+ data/REAImages/pool_1.jpg
+ mid:"/m/0n68_" description:"structure" score:0.8631429 topicality:0.8631429  
+ mid:"/m/03nfmq" description:"architecture" score:0.85197145 topicality:0.85197145  
+ mid:"/m/0cgh4" description:"building" score:0.7642952 topicality:0.7642952  
+ mid:"/m/0k2n5" description:"daylighting" score:0.71685445 topicality:0.71685445  
+ mid:"/m/03scnj" description:"line" score:0.67228824 topicality:0.67228824  
+ mid:"/m/01x314" description:"facade" score:0.66698617 topicality:0.66698617  
+ mid:"/m/083vt" description:"wood" score:0.6213715 topicality:0.6213715  
+ mid:"/m/06hyd" description:"roof" score:0.5883391 topicality:0.5883391  
+ mid:"/m/06qqb" description:"steel" score:0.5607852 topicality:0.5607852  
+ mid:"/m/0mwc" description:"angle" score:0.54475766 topicality:0.54475766  
+
+ data/REAImages/pool_2.jpg
+ mid:"/m/03nfmq" description:"architecture" score:0.84115255 topicality:0.84115255  
+ mid:"/m/09qqq" description:"wall" score:0.76810217 topicality:0.76810217  
+ mid:"/m/023907r" description:"real estate" score:0.64613885 topicality:0.64613885  
+ mid:"/m/0k2n5" description:"daylighting" score:0.64277023 topicality:0.64277023  
+ mid:"/m/06hyd" description:"roof" score:0.5448095 topicality:0.5448095  
+
+ data/REAImages/wardrobe_1.jpg
+ mid:"/m/05wrt" description:"property" score:0.90809184 topicality:0.90809184  
+ mid:"/m/03nfmq" description:"architecture" score:0.792418 topicality:0.792418  
+ mid:"/m/083vt" description:"wood" score:0.78092265 topicality:0.78092265  
+ mid:"/m/09qqq" description:"wall" score:0.77236295 topicality:0.77236295  
+ mid:"/m/0l7_8" description:"floor" score:0.7600583 topicality:0.7600583  
+ mid:"/m/02rfdq" description:"interior design" score:0.6902756 topicality:0.6902756  
+ mid:"/m/05t06b" description:"wood stain" score:0.6416244 topicality:0.6416244  
+ mid:"/m/01c34b" description:"flooring" score:0.63037765 topicality:0.63037765  
+ mid:"/m/023907r" description:"real estate" score:0.6088615 topicality:0.6088615  
+ mid:"/m/020g49" description:"hardwood" score:0.58079356 topicality:0.58079356  
